@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KushagrColor-Gen-Palette/static/css/main.70ebaa64.css",
+    "main.js": "/KushagrColor-Gen-Palette/static/js/main.70f4dc85.js",
+    "static/js/453.fd11c346.chunk.js": "/KushagrColor-Gen-Palette/static/js/453.fd11c346.chunk.js",
+    "index.html": "/KushagrColor-Gen-Palette/index.html",
+    "main.70ebaa64.css.map": "/KushagrColor-Gen-Palette/static/css/main.70ebaa64.css.map",
+    "main.70f4dc85.js.map": "/KushagrColor-Gen-Palette/static/js/main.70f4dc85.js.map",
+    "453.fd11c346.chunk.js.map": "/KushagrColor-Gen-Palette/static/js/453.fd11c346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70ebaa64.css",
+    "static/js/main.70f4dc85.js"
+  ]
+}
